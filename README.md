@@ -1,4 +1,4 @@
-# python-based visual tool for pairwise sequence alignment
+# a python-based visual tool for pairwise sequence alignment
 ## Goals: 
 This is the python-based tool for pairwise sequence alignment by using TKinter as python library binding to the Tk GUI toolkit.
 ### Performance
