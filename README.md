@@ -9,6 +9,7 @@ We've applied the Needleman-Wunsh (NW) and Smith-Waterman methods (SW) to align 
 4. Repeatedly click the next button, ‘>’, to fill in the score of each matrix’s element
 5. Click  the back button, ‘<’,  for a glimpse of the prior calculation
 6. Continuously click the next button until the last element, and the traceback process is then started resulting the optimal alignment
+7. There are also '>>' and '<<' buttons to run the whole process without repeating clicking the previously mentioned buttons.
 
 ### The demo video can be downloaded here: 
 https://github.com/neo-ewha/bioinformatics-tools/blob/main/VideoDemo.mp4
