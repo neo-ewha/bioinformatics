@@ -11,4 +11,4 @@ We've applied the Needleman-Wunsh (NW) and Smith-Waterman methods (SW) to align 
 6. Continuously click the next button until the last element, and the traceback process is then started resulting the optimal alignment
 
 ### The demo video can be downloaded here: 
-https://github.com/neo-ewha/bioinformatics-tools/blob/main/Demo.mp4
+https://github.com/neo-ewha/bioinformatics-tools/blob/main/VideoDemo.mp4
