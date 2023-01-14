@@ -3,6 +3,8 @@
 ## Goals: 
 This is the python-based tool for pairwise sequence alignment by using TKinter as python library binding to the Tk GUI toolkit. The code can be executed through Jupyter notebook.
 
+https://user-images.githubusercontent.com/91187659/212444409-a5b4db37-eab6-4aff-99bb-37b76703081c.mp4
+
 ## Installation
 Sections below describe the anaconda installation as an environment for execute the code. Anaconda is a open-source distribution of the Python and R programming languages that aims to simplify package management and deployment. The distribution includes data-science packages suitable for **Windows**, **Linux**, and **macOS**. Manual instalation links are as follow:
 
